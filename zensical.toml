@@ -21,11 +21,11 @@ nav = [
   "index.md",
 
   { "Serviços de Rede" = [
-      "firewall.md",
-      "ldap.md",
-      "ssh.md",
-      "vpn.md",
-      "zabbix.md",
+      "servicos/firewall.md",
+      "servicos/ldap.md",
+      "servicos/ssh.md",
+      "servicos/vpn.md",
+      "servicos/zabbix.md",
     ]
   },
 
@@ -33,6 +33,7 @@ nav = [
       "tutorial/index.md",
       "tutorial/markdown.md",
       "tutorial/exemplos.md",
+      "tutorial/ferramentas.md",
     ]
   }
 ]
